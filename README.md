@@ -6,6 +6,7 @@ This project is a decentralized social media smart contract built using Soroban 
 Unlike traditional social media platforms, this system does not rely on centralized servers, ensuring transparency, data ownership, and immutability.
 
 ---
+<img width="1920" height="1001" alt="Screenshot_20260324_141536" src="https://github.com/user-attachments/assets/2cc6cc7a-3360-4445-8b95-f1f4198a680e" />
 
 ## ⚙️ What It Does
 
